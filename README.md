@@ -1,1 +1,1 @@
-This repository is about my applicaton development projects mainly focus in android development
+#This is a public repository of my previous android application development projects
